@@ -1,0 +1,7 @@
+guide_wire 1.00 105 168 232 247
+guide_wire 1.00 105 168 232 247
+guide_wire 1.00 105 168 232 247
+guide_wire 1.00 105 168 232 247
+guide_wire 1.00 105 168 232 247
+guide_wire 1.00 98 171 238 246
+guide_wire 1.00 116 168 234 251

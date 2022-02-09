@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sp_spinal_2_Trim_416</folder>
+	<filename>image_0026_sp_spinal_2_Trim_416_rot180.jpg</filename>
+	<path>C:\Users\1999r\OneDrive - 和歌山大学\move_to_image\spinal_under_kasou_frame\sp_spinal_2_Trim_416\image_0026_sp_spinal_2_Trim_416_rot180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spinal_needle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>100</ymin>
+			<xmax>178</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

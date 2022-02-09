@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spinal_1_kasou_cut_resize</folder>
+	<filename>image_0042_spinal_1_kasou_cut_resize.jpg</filename>
+	<path>C:\Users\1999r\OneDrive - 和歌山大学\move_to_image\spinal_under_kasou_frame\spinal_1_kasou_cut_resize\image_0042_spinal_1_kasou_cut_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spinal_needle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>306</ymin>
+			<xmax>230</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

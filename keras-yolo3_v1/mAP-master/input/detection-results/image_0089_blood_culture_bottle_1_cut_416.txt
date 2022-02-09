@@ -1,0 +1,16 @@
+blood_cl_bottle_blue 1.00 203 111 247 183
+blood_cl_bottle_orange 1.00 56 155 112 237
+blood_cl_bottle_blue 1.00 203 111 247 183
+blood_cl_bottle_orange 1.00 56 155 112 237
+blood_cl_bottle_blue 1.00 203 111 247 183
+blood_cl_bottle_orange 1.00 56 155 112 237
+blood_cl_bottle_blue 1.00 203 111 247 183
+blood_cl_bottle_orange 1.00 56 155 112 237
+blood_cl_bottle_blue 1.00 203 111 247 183
+blood_cl_bottle_orange 1.00 56 155 112 237
+blood_cl_bottle_blue 1.00 203 111 247 183
+blood_cl_bottle_orange 1.00 56 155 112 237
+blood_cl_bottle_blue 1.00 206 110 244 183
+blood_cl_bottle_orange 1.00 57 155 109 242
+blood_cl_bottle_blue 0.59 190 91 262 320
+blood_cl_bottle_orange 0.97 61 154 162 367

@@ -1,0 +1,2 @@
+central_venous_catheter 187 188 239 244
+guide_wire 244 109 406 236

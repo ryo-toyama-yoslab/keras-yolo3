@@ -1,0 +1,16 @@
+blood_cl_bottle_blue 0.34 141 155 169 176
+guide_wire 1.00 278 150 410 262
+central_venous_catheter 0.34 141 221 198 267
+blood_cl_bottle_blue 0.34 141 155 169 176
+guide_wire 1.00 278 150 410 262
+central_venous_catheter 0.34 141 221 198 267
+blood_cl_bottle_blue 0.34 141 155 169 176
+guide_wire 1.00 278 150 410 262
+central_venous_catheter 0.34 141 221 198 267
+blood_cl_bottle_blue 0.34 141 155 169 176
+guide_wire 1.00 278 150 410 262
+central_venous_catheter 0.34 141 221 198 267
+blood_cl_bottle_blue 0.34 141 155 169 176
+guide_wire 1.00 278 150 410 262
+central_venous_catheter 0.34 141 221 198 267
+guide_wire 1.00 274 152 411 258

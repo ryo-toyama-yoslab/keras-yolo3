@@ -1,0 +1,33 @@
+学習済みデータに変える際の手順
+
+・学習済みデータを使う際
+
+　(1) anaconda promptで学習済みのweight(yolov3.weightsなど)をkerasで使えるように変換
+
+　　　コマンド例）python convert.py yolov3.cfg yolov3.weights model_data/yolo.h5
+　 
+　(2) yolo.pyファイル内のmodel_pathを上で変換した～.h5ファイルに変える
+
+　(3) yolo.pyファイル内のclasses_pathを自分で学習した場合のクラステキスト，voc_classes/.txtを
+　　　学習済みモデル用のクラスのテキスト(coco_classes.tex)に変更
+
+
+画像で検出コマンド：python yolo_video.py --image
+
+動画で検出コマンド：python yolo_video.py --input ファイル名.mp4 (-- output ファイル名.mp4)
+
+入力待ちコマンド終了：Ctrl＋C からEnter
+
+
+・オリジナルデータ学習手順
+
+　(1)　アノテーションファイルをYolov3用に変換　：　python voc_annotation.py
+
+　
+　(2)　weightsをコンバート　：　python convert.py -w yolov3.cfg yolov3.weights model_data/yolo_weights.h5
+
+　(3)　学習実行　：　python train.py
+
+　(4)　学習モデルで物体検出
+　　　　動画ファイル　：　python yolo_video.py --model logs/000/trained_weights_final.h5 --classes model_data/voc_classes.txt --input test.mp4　--output result.mp4
+　　　　画像ファイル　：　python yolo_video.py --model logs/000/trained_weights_final.h5 --classes model_data/voc_classes.txt --test test.jpg

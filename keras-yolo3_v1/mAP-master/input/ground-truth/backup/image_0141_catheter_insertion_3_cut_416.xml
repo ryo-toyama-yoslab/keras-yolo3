@@ -1,0 +1,38 @@
+<annotation>
+	<folder>catheter_insertion_3_kasou_cut_416</folder>
+	<filename>image_0141_catheter_insertion_3_cut_416.jpg</filename>
+	<path>C:\Users\1999r\OneDrive - 和歌山大学\move_to_image\catheter_insertion_under_kasou_frame\catheter_insertion_3_kasou_cut_416\image_0141_catheter_insertion_3_cut_416.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>central_venous_catheter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>150</ymin>
+			<xmax>124</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>guide_wire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>230</ymin>
+			<xmax>231</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

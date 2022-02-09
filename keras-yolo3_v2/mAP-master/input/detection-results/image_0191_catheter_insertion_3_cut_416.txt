@@ -1,0 +1,11 @@
+blood_cl_bottle_blue 0.89 124 172 156 194
+guide_wire 1.00 271 174 410 280
+blood_cl_bottle_blue 0.89 124 172 156 194
+guide_wire 1.00 271 174 410 280
+blood_cl_bottle_blue 0.89 124 172 156 194
+guide_wire 1.00 271 174 410 280
+blood_cl_bottle_blue 0.89 124 172 156 194
+guide_wire 1.00 271 174 410 280
+blood_cl_bottle_blue 0.89 124 172 156 194
+guide_wire 1.00 271 174 410 280
+guide_wire 1.00 271 175 409 278

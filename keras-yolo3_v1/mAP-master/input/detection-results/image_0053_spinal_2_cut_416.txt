@@ -1,0 +1,8 @@
+spinal_needle 1.00 101 281 144 348
+spinal_needle 1.00 101 281 144 348
+spinal_needle 1.00 101 281 144 348
+spinal_needle 1.00 101 281 144 348
+spinal_needle 1.00 101 281 144 348
+spinal_needle 1.00 101 281 144 348
+spinal_needle 1.00 96 285 148 344
+spinal_needle 1.00 101 283 145 347

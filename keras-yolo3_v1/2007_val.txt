@@ -1,0 +1,475 @@
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0098_mark_1_kasou_cut_resize.jpg 171,166,279,357,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0099_mark_1_kasou_cut_resize.jpg 179,156,295,356,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0033_mark_1_kasou_cut_resize.jpg 269,114,425,401,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0001_mark_1_kasou_cut_resize.jpg 315,224,439,299,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0100_mark_1_kasou_cut_resize.jpg 155,114,286,341,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0104_mark_1_kasou_cut_resize.jpg 130,137,290,358,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0070_mark_1_kasou_cut_resize.jpg 239,198,352,359,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0020_mark_1_kasou_cut_resize.jpg 128,183,325,305,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0106_mark_1_kasou_cut_resize.jpg 197,132,366,276,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0050_mark_1_kasou_cut_resize.jpg 258,120,391,393,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0038_mark_1_kasou_cut_resize.jpg 299,153,441,443,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0059_mark_1_kasou_cut_resize.jpg 254,107,387,202,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0082_mark_1_kasou_cut_resize.jpg 179,185,335,267,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0096_mark_1_kasou_cut_resize.jpg 185,130,288,299,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0060_mark_1_kasou_cut_resize.jpg 223,140,345,237,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0094_mark_1_kasou_cut_resize.jpg 188,141,285,306,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0000_mark_1_kasou_cut_resize.jpg 318,206,454,275,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0039_mark_1_kasou_cut_resize.jpg 346,111,490,408,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0071_mark_1_kasou_cut_resize.jpg 205,231,334,388,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0063_mark_1_kasou_cut_resize.jpg 145,136,251,253,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0010_mark_1_kasou_cut_resize.jpg 286,93,411,224,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0053_mark_1_kasou_cut_resize.jpg 166,118,368,300,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0015_mark_1_kasou_cut_resize.jpg 268,138,393,324,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0076_mark_1_kasou_cut_resize.jpg 252,232,384,293,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0045_mark_1_kasou_cut_resize.jpg 383,64,618,331,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0035_mark_1_kasou_cut_resize.jpg 251,137,397,429,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0049_mark_1_kasou_cut_resize.jpg 264,157,449,423,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0017_mark_1_kasou_cut_resize.jpg 207,205,341,347,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0069_mark_1_kasou_cut_resize.jpg 222,169,337,320,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0073_mark_1_kasou_cut_resize.jpg 199,256,333,352,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0076_mark_2_kasou_cut_resize.jpg 166,172,317,242,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0144_mark_2_kasou_cut_resize.jpg 87,55,291,443,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0044_mark_2_kasou_cut_resize.jpg 146,199,493,368,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0142_mark_2_kasou_cut_resize.jpg 85,97,272,447,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0148_mark_2_kasou_cut_resize.jpg 176,21,384,413,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0050_mark_2_kasou_cut_resize.jpg 62,163,302,469,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0072_mark_2_kasou_cut_resize.jpg 417,125,568,229,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0088_mark_2_kasou_cut_resize.jpg 252,199,384,271,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0096_mark_2_kasou_cut_resize.jpg 64,75,134,127,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0038_mark_2_kasou_cut_resize.jpg 219,304,516,454,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0011_mark_2_kasou_cut_resize.jpg 176,53,439,210,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0167_mark_2_kasou_cut_resize.jpg 244,161,368,340,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0119_mark_2_kasou_cut_resize.jpg 322,85,555,280,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0028_mark_2_kasou_cut_resize.jpg 140,154,334,356,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0160_mark_2_kasou_cut_resize.jpg 247,143,398,445,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0059_mark_2_kasou_cut_resize.jpg 1,115,140,473,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0048_mark_2_kasou_cut_resize.jpg 85,223,396,438,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0118_mark_2_kasou_cut_resize.jpg 321,134,531,341,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0161_mark_2_kasou_cut_resize.jpg 257,115,407,431,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0040_mark_2_kasou_cut_resize.jpg 209,191,512,342,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0054_mark_2_kasou_cut_resize.jpg 132,101,284,425,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0031_mark_2_kasou_cut_resize.jpg 135,122,333,319,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0113_mark_2_kasou_cut_resize.jpg 262,129,413,287,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0064_mark_2_kasou_cut_resize.jpg 170,121,312,268,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0129_mark_2_kasou_cut_resize.jpg 249,39,413,318,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0062_mark_2_kasou_cut_resize.jpg 150,120,316,399,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0001_mark_2_kasou_cut_resize.jpg 171,235,370,319,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0126_mark_2_kasou_cut_resize.jpg 289,91,449,362,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0095_mark_2_kasou_cut_resize.jpg 101,80,172,139,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0024_mark_2_kasou_cut_resize.jpg 98,217,282,460,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0155_mark_2_kasou_cut_resize.jpg 236,37,442,414,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0019_mark_2_kasou_cut_resize.jpg 94,173,257,385,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0078_mark_2_kasou_cut_resize.jpg 190,185,342,257,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0147_mark_2_kasou_cut_resize.jpg 120,78,326,469,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0123_mark_2_kasou_cut_resize.jpg 298,1,460,232,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0070_mark_2_kasou_cut_resize.jpg 255,141,391,235,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0023_mark_2_kasou_cut_resize.jpg 134,191,325,425,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0140_mark_2_kasou_cut_resize.jpg 162,90,351,416,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0041_mark_2_kasou_cut_resize.jpg 196,180,507,334,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0077_mark_2_kasou_cut_resize.jpg 174,183,329,259,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0138_mark_2_kasou_cut_resize.jpg 172,77,342,401,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0153_mark_2_kasou_cut_resize.jpg 94,11,323,432,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0121_mark_2_kasou_cut_resize.jpg 301,40,560,236,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0158_mark_2_kasou_cut_resize.jpg 325,110,478,423,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0145_mark_2_kasou_cut_resize.jpg 71,43,280,442,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0029_mark_2_kasou_cut_resize.jpg 138,136,331,332,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0057_mark_2_kasou_cut_resize.jpg 25,115,186,478,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0068_mark_2_kasou_cut_resize.jpg 279,161,409,261,0
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0117_spinal_1_kasou_cut_resize.jpg 128,381,181,451,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0089_spinal_1_kasou_cut_resize_rot180.jpg 459,12,506,49,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0009_spinal_1_kasou_cut_resize_rot180.jpg 378,150,408,188,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0025_spinal_1_kasou_cut_resize_rot180.jpg 462,72,515,151,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0101_spinal_1_kasou_cut_resize_rot180.jpg 355,118,392,167,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0097_spinal_1_kasou_cut_resize.jpg 274,354,309,394,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0029_spinal_1_kasou_cut_resize.jpg 159,442,201,480,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0017_spinal_1_kasou_cut_resize_rot180.jpg 391,82,425,129,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0155_spinal_1_kasou_cut_resize_rot180.jpg 387,69,427,119,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0124_spinal_1_kasou_cut_resize.jpg 125,202,183,260,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0155_spinal_1_kasou_cut_resize.jpg 215,363,251,410,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0102_spinal_1_kasou_cut_resize.jpg 244,320,279,367,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0148_spinal_1_kasou_cut_resize.jpg 344,358,395,424,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0057_spinal_1_kasou_cut_resize.jpg 32,326,116,423,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0041_spinal_1_kasou_cut_resize_rot180.jpg 392,85,435,129,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0103_spinal_1_kasou_cut_resize.jpg 252,298,290,349,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0108_spinal_1_kasou_cut_resize.jpg 283,307,337,376,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0091_spinal_1_kasou_cut_resize.jpg 182,442,228,480,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0130_spinal_1_kasou_cut_resize.jpg 233,263,283,320,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0096_spinal_1_kasou_cut_resize.jpg 246,329,277,372,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0042_spinal_1_kasou_cut_resize_rot180.jpg 405,128,455,179,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0040_spinal_1_kasou_cut_resize_rot180.jpg 402,121,442,167,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0015_spinal_1_kasou_cut_resize_rot180.jpg 339,168,369,211,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0029_spinal_1_kasou_cut_resize_rot180.jpg 435,1,480,40,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0134_spinal_1_kasou_cut_resize_rot180.jpg 394,110,456,186,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0135_spinal_1_kasou_cut_resize_rot180.jpg 327,151,376,219,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0086_spinal_1_kasou_cut_resize_rot180.jpg 440,7,485,44,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0038_spinal_1_kasou_cut_resize_rot180.jpg 392,19,424,65,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0142_spinal_1_kasou_cut_resize_rot180.jpg 311,68,363,142,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0060_spinal_1_kasou_cut_resize_rot180.jpg 394,160,455,249,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0145_spinal_1_kasou_cut_resize.jpg 288,321,341,386,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0108_spinal_1_kasou_cut_resize_rot180.jpg 301,104,352,176,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0008_spinal_1_kasou_cut_resize.jpg 185,303,215,341,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0016_spinal_1_kasou_cut_resize.jpg 237,282,266,321,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0119_spinal_1_kasou_cut_resize.jpg 194,283,248,348,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0065_spinal_1_kasou_cut_resize_rot180.jpg 377,98,416,158,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0067_spinal_1_kasou_cut_resize.jpg 271,349,308,394,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0041_spinal_1_kasou_cut_resize.jpg 201,351,246,396,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0063_spinal_1_kasou_cut_resize.jpg 152,272,211,349,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0048_spinal_1_kasou_cut_resize.jpg 138,323,211,387,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0048_spinal_1_kasou_cut_resize_rot180.jpg 432,93,502,156,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0036_spinal_1_kasou_cut_resize_rot180.jpg 446,57,486,114,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0154_spinal_1_kasou_cut_resize_rot180.jpg 373,100,413,146,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0013_spinal_1_kasou_cut_resize.jpg 292,258,325,295,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0099_spinal_1_kasou_cut_resize.jpg 190,405,227,451,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0111_spinal_1_kasou_cut_resize.jpg 264,331,315,404,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0051_spinal_1_kasou_cut_resize_rot180.jpg 423,82,502,151,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0010_spinal_1_kasou_cut_resize.jpg 211,294,240,332,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0128_spinal_1_kasou_cut_resize_rot180.jpg 429,154,480,214,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0087_spinal_1_kasou_cut_resize.jpg 148,427,190,466,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0001_spinal_1_kasou_cut_resize.jpg 316,348,346,384,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0090_spinal_1_kasou_cut_resize.jpg 148,428,196,472,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0130_spinal_1_kasou_cut_resize_rot180.jpg 357,158,414,220,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0144_spinal_1_kasou_cut_resize.jpg 299,315,346,377,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0091_spinal_1_kasou_cut_resize_rot180.jpg 415,1,459,35,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0027_spinal_1_kasou_cut_resize.jpg 122,340,181,415,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0113_spinal_1_kasou_cut_resize_rot180.jpg 336,76,387,145,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0125_spinal_1_kasou_cut_resize.jpg 116,212,172,272,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0034_spinal_1_kasou_cut_resize_rot180.jpg 466,36,508,89,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0087_spinal_1_kasou_cut_resize_rot180.jpg 444,12,491,54,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0147_spinal_1_kasou_cut_resize.jpg 299,425,349,480,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0151_spinal_1_kasou_cut_resize_rot180.jpg 339,164,371,209,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0046_spinal_1_kasou_cut_resize_rot180.jpg 417,123,480,183,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0131_spinal_1_kasou_cut_resize.jpg 164,272,223,338,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0009_spinal_1_kasou_cut_resize.jpg 233,292,263,329,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0039_spinal_1_kasou_cut_resize.jpg 206,345,239,389,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0045_spinal_1_kasou_cut_resize.jpg 177,322,230,376,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0035_spinal_1_kasou_cut_resize.jpg 154,369,192,419,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0157_spinal_1_kasou_cut_resize.jpg 87,424,137,480,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0161_spinal_1_kasou_cut_resize.jpg 164,374,192,413,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0066_spinal_1_kasou_cut_resize.jpg 245,322,283,373,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0006_spinal_1_kasou_cut_resize_rot180.jpg 437,141,462,176,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0116_spinal_1_kasou_cut_resize.jpg 118,384,172,452,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0102_spinal_1_kasou_cut_resize_rot180.jpg 364,109,400,158,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0126_spinal_1_kasou_cut_resize.jpg 127,233,175,291,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0058_spinal_3_kasou_cut_resize.jpg 97,364,194,469,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0074_spinal_3_kasou_cut_resize.jpg 299,200,371,243,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0009_spinal_3_kasou_cut_resize.jpg 135,205,174,254,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0044_spinal_3_kasou_cut_resize.jpg 17,399,105,480,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0094_spinal_3_kasou_cut_resize.jpg 118,240,163,289,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0072_spinal_3_kasou_cut_resize.jpg 257,289,324,331,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0137_spinal_3_kasou_cut_resize.jpg 337,237,398,316,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0021_spinal_3_kasou_cut_resize.jpg 131,165,173,224,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0073_spinal_3_kasou_cut_resize.jpg 286,248,357,291,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0154_spinal_3_kasou_cut_resize.jpg 400,303,450,372,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0031_spinal_3_kasou_cut_resize.jpg 195,154,262,221,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0067_spinal_3_kasou_cut_resize.jpg 187,126,253,205,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0037_spinal_3_kasou_cut_resize.jpg 228,267,285,317,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0024_spinal_3_kasou_cut_resize.jpg 114,181,162,246,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0057_spinal_3_kasou_cut_resize.jpg 123,359,215,465,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0015_spinal_3_kasou_cut_resize.jpg 97,154,137,206,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0084_spinal_3_kasou_cut_resize.jpg 152,199,191,251,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0100_spinal_3_kasou_cut_resize.jpg 126,244,163,292,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0020_spinal_3_kasou_cut_resize.jpg 125,173,173,225,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0098_spinal_3_kasou_cut_resize.jpg 122,222,160,271,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0007_spinal_3_kasou_cut_resize.jpg 257,186,293,233,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0099_spinal_3_kasou_cut_resize.jpg 139,243,174,289,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0016_spinal_3_kasou_cut_resize.jpg 129,169,163,221,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0153_spinal_3_kasou_cut_resize.jpg 387,260,441,328,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0071_spinal_3_kasou_cut_resize.jpg 252,261,316,301,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0070_spinal_3_kasou_cut_resize.jpg 230,220,289,273,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0159_spinal_3_kasou_cut_resize.jpg 302,318,329,352,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0027_spinal_3_kasou_cut_resize.jpg 138,56,193,122,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0051_spinal_3_kasou_cut_resize.jpg 49,219,148,323,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0050_spinal_3_kasou_cut_resize.jpg 62,280,148,382,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0083_spinal_3_kasou_cut_resize.jpg 192,199,225,252,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0132_spinal_3_kasou_cut_resize.jpg 252,426,291,471,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0061_spinal_3_kasou_cut_resize.jpg 19,259,122,371,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0091_spinal_3_kasou_cut_resize.jpg 138,241,173,278,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0158_spinal_3_kasou_cut_resize.jpg 339,344,366,379,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0008_spinal_3_kasou_cut_resize.jpg 191,185,232,240,1
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0089_catheter_insertion_1_kasou_cut_resize.jpg 247,279,414,395,2 1,83,249,249,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0149_catheter_insertion_1_kasou_cut_resize.jpg 313,218,378,310,2 450,195,574,311,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0226_catheter_insertion_1_kasou_cut_resize.jpg 168,206,260,362,2 334,231,487,411,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0170_catheter_insertion_1_kasou_cut_resize.jpg 183,33,308,224,2 400,60,606,267,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0178_catheter_insertion_1_kasou_cut_resize.jpg 170,127,257,239,2 357,109,512,240,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0036_catheter_insertion_1_kasou_cut_resize.jpg 263,263,378,322,2 243,149,383,238,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0175_catheter_insertion_1_kasou_cut_resize.jpg 103,37,222,243,2 284,139,428,316,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0037_catheter_insertion_1_kasou_cut_resize.jpg 247,184,358,233,2 214,68,363,154,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0209_catheter_insertion_1_kasou_cut_resize.jpg 40,78,204,269,2 272,166,538,379,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0086_catheter_insertion_1_kasou_cut_resize.jpg 192,251,353,360,2 3,50,195,215,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0315_catheter_insertion_1_kasou_cut_resize.jpg 334,257,459,372,2 151,164,340,294,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0205_catheter_insertion_1_kasou_cut_resize.jpg 74,81,226,297,2 300,122,544,344,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0119_catheter_insertion_1_kasou_cut_resize.jpg 303,298,414,351,2 290,198,435,279,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0337_catheter_insertion_1_kasou_cut_resize.jpg 298,289,467,401,2 134,166,359,272,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0299_catheter_insertion_1_kasou_cut_resize.jpg 236,386,419,480,2 1,187,197,405,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0250_catheter_insertion_1_kasou_cut_resize.jpg 255,182,325,275,2 394,118,512,240,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0368_catheter_insertion_1_kasou_cut_resize.jpg 294,290,475,450,2 1,97,269,276,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0126_catheter_insertion_1_kasou_cut_resize.jpg 102,209,223,263,2 7,120,180,182,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0121_catheter_insertion_1_kasou_cut_resize.jpg 336,233,422,276,2 331,152,450,221,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0284_catheter_insertion_1_kasou_cut_resize.jpg 173,272,244,305,2 216,213,308,266,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0049_catheter_insertion_1_kasou_cut_resize.jpg 61,310,213,403,2 74,110,260,250,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0379_catheter_insertion_1_kasou_cut_resize.jpg 404,329,550,480,2 79,179,319,409,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0302_catheter_insertion_1_kasou_cut_resize.jpg 266,321,452,479,2 1,153,248,362,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0259_catheter_insertion_1_kasou_cut_resize.jpg 167,128,291,292,2 402,119,610,331,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0164_catheter_insertion_1_kasou_cut_resize.jpg 85,41,258,220,2 299,138,580,338,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0392_catheter_insertion_1_kasou_cut_resize.jpg 375,199,566,363,2 1,71,337,219,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0207_catheter_insertion_1_kasou_cut_resize.jpg 98,91,241,283,2 312,136,556,354,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0221_catheter_insertion_1_kasou_cut_resize.jpg 1,110,126,276,2 189,181,361,382,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0190_catheter_insertion_1_kasou_cut_resize.jpg 249,170,327,270,2 433,137,592,271,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0016_catheter_insertion_1_kasou_cut_resize.jpg 368,308,538,433,2 98,155,366,306,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0145_catheter_insertion_1_kasou_cut_resize.jpg 221,207,288,254,2 293,159,377,220,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0197_catheter_insertion_1_kasou_cut_resize.jpg 61,136,214,282,2 283,154,533,351,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0010_catheter_insertion_1_kasou_cut_resize.jpg 275,338,434,427,2 78,200,317,310,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0283_catheter_insertion_1_kasou_cut_resize.jpg 141,268,213,304,2 202,214,289,266,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0346_catheter_insertion_1_kasou_cut_resize.jpg 302,225,515,417,2 1,133,267,269,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0286_catheter_insertion_1_kasou_cut_resize.jpg 86,305,180,340,2 84,245,199,284,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0029_catheter_insertion_1_kasou_cut_resize.jpg 189,398,380,480,2 32,141,300,301,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0244_catheter_insertion_1_kasou_cut_resize.jpg 359,218,436,294,2 493,235,639,345,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0383_catheter_insertion_1_kasou_cut_resize.jpg 371,231,531,394,2 125,109,349,298,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0400_catheter_insertion_1_kasou_cut_resize.jpg 319,227,531,412,2 1,121,268,267,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0230_catheter_insertion_1_kasou_cut_resize.jpg 216,121,286,208,2 354,102,465,215,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0022_catheter_insertion_1_kasou_cut_resize.jpg 254,366,418,480,2 4,215,243,375,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0108_catheter_insertion_1_kasou_cut_resize.jpg 107,335,345,424,2 1,184,246,277,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0240_catheter_insertion_1_kasou_cut_resize.jpg 256,188,316,267,2 378,180,500,283,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0070_catheter_insertion_1_kasou_cut_resize.jpg 294,281,449,379,2 68,155,315,274,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0358_catheter_insertion_1_kasou_cut_resize.jpg 315,334,469,479,2 1,167,257,359,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0352_catheter_insertion_1_kasou_cut_resize.jpg 285,223,460,400,2 1,49,241,238,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0009_catheter_insertion_1_kasou_cut_resize.jpg 269,329,431,418,2 93,195,323,305,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0030_catheter_insertion_1_kasou_cut_resize.jpg 102,377,307,480,2 39,105,295,270,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0038_catheter_insertion_1_kasou_cut_resize.jpg 241,242,362,307,2 211,112,367,209,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0287_catheter_insertion_1_kasou_cut_resize.jpg 67,304,161,338,2 40,251,169,288,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0280_catheter_insertion_1_kasou_cut_resize.jpg 157,286,232,356,2 269,219,375,308,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0023_catheter_insertion_1_kasou_cut_resize.jpg 251,333,405,453,2 2,184,237,336,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0401_catheter_insertion_1_kasou_cut_resize.jpg 322,259,535,441,2 1,148,275,305,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0118_catheter_insertion_1_kasou_cut_resize.jpg 313,303,428,359,2 296,199,452,281,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0015_catheter_insertion_1_kasou_cut_resize.jpg 324,296,488,410,2 78,147,339,284,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0191_catheter_insertion_1_kasou_cut_resize.jpg 294,190,372,290,2 464,148,623,290,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0124_catheter_insertion_1_kasou_cut_resize.jpg 148,200,253,240,2 75,126,223,178,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0308_catheter_insertion_1_kasou_cut_resize.jpg 338,238,566,423,2 28,60,343,243,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0330_catheter_insertion_1_kasou_cut_resize.jpg 171,183,285,257,2 81,116,240,186,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0082_catheter_insertion_1_kasou_cut_resize.jpg 321,272,489,386,2 53,98,325,250,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0360_catheter_insertion_1_kasou_cut_resize.jpg 328,305,492,460,2 1,144,285,330,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0078_catheter_insertion_1_kasou_cut_resize.jpg 358,282,530,399,2 117,125,375,263,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0099_catheter_insertion_1_kasou_cut_resize.jpg 331,393,483,480,2 20,235,303,402,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0177_catheter_insertion_1_kasou_cut_resize.jpg 172,153,266,294,2 366,142,525,290,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0193_catheter_insertion_1_kasou_cut_resize.jpg 260,148,355,245,2 440,131,602,280,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0104_catheter_insertion_1_kasou_cut_resize.jpg 256,299,486,417,2 1,172,299,288,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0321_catheter_insertion_1_kasou_cut_resize.jpg 232,304,328,387,2 134,233,276,313,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0194_catheter_insertion_1_kasou_cut_resize.jpg 271,149,371,266,2 455,158,639,311,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0208_catheter_insertion_1_kasou_cut_resize.jpg 50,60,203,266,2 281,123,535,345,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0189_catheter_insertion_1_kasou_cut_resize.jpg 227,200,313,285,2 411,168,574,287,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0293_catheter_insertion_1_kasou_cut_resize.jpg 308,265,435,399,2 119,177,311,322,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0251_catheter_insertion_1_kasou_cut_resize.jpg 182,185,273,304,2 338,85,478,237,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0079_catheter_insertion_1_kasou_cut_resize.jpg 341,289,512,408,2 89,129,348,269,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0026_catheter_insertion_1_kasou_cut_resize.jpg 301,291,459,410,2 18,132,290,292,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0247_catheter_insertion_1_kasou_cut_resize.jpg 372,179,446,258,2 513,200,640,298,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0112_catheter_insertion_1_kasou_cut_resize.jpg 117,346,337,438,2 76,188,330,291,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0094_catheter_insertion_1_kasou_cut_resize.jpg 242,285,384,415,2 1,126,204,305,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0288_catheter_insertion_1_kasou_cut_resize.jpg 91,292,190,341,2 41,240,183,278,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0151_catheter_insertion_1_kasou_cut_resize.jpg 282,197,364,293,2 438,197,584,333,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0188_catheter_insertion_1_kasou_cut_resize.jpg 213,182,304,267,2 404,157,571,263,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0042_catheter_insertion_1_kasou_cut_resize.jpg 96,314,229,417,2 164,127,320,278,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0373_catheter_insertion_1_kasou_cut_resize.jpg 333,295,526,466,2 2,120,307,308,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0350_catheter_insertion_1_kasou_cut_resize.jpg 323,198,507,393,2 3,57,265,249,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0369_catheter_insertion_1_kasou_cut_resize.jpg 316,272,502,437,2 1,95,279,278,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0262_catheter_insertion_1_kasou_cut_resize.jpg 117,71,282,238,2 359,149,638,350,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0353_catheter_insertion_1_kasou_cut_resize.jpg 293,245,485,419,2 1,65,253,257,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0074_catheter_insertion_1_kasou_cut_resize.jpg 301,300,463,417,2 73,186,315,312,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0088_catheter_insertion_1_kasou_cut_resize.jpg 243,276,412,390,2 2,79,248,243,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0270_catheter_insertion_1_kasou_cut_resize.jpg 201,107,341,264,2 408,154,640,366,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0290_catheter_insertion_1_kasou_cut_resize.jpg 163,279,282,333,2 72,192,244,252,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0065_catheter_insertion_1_kasou_cut_resize.jpg 288,334,458,433,2 87,197,331,312,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0176_catheter_insertion_1_kasou_cut_resize.jpg 156,69,265,240,2 350,105,493,269,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0203_catheter_insertion_1_kasou_cut_resize.jpg 69,1,260,244,2 351,97,640,333,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0407_catheter_insertion_1_kasou_cut_resize.jpg 332,296,525,454,2 3,174,307,336,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0148_catheter_insertion_1_kasou_cut_resize.jpg 243,252,315,327,2 360,212,460,308,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0045_catheter_insertion_1_kasou_cut_resize.jpg 104,270,223,391,2 209,85,358,255,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0021_catheter_insertion_1_kasou_cut_resize.jpg 310,340,472,466,2 20,190,292,352,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0153_catheter_insertion_1_kasou_cut_resize.jpg 180,154,295,281,2 358,180,555,333,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0380_catheter_insertion_1_kasou_cut_resize.jpg 400,361,554,480,2 79,214,319,442,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0106_catheter_insertion_1_kasou_cut_resize.jpg 199,313,432,427,2 2,180,274,288,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0087_catheter_insertion_1_kasou_cut_resize.jpg 197,227,363,340,2 1,17,209,185,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0162_catheter_insertion_1_kasou_cut_resize.jpg 117,39,269,205,2 317,133,563,308,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0109_catheter_insertion_1_kasou_cut_resize.jpg 101,335,333,420,2 1,186,255,275,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0366_catheter_insertion_1_kasou_cut_resize.jpg 272,312,445,463,2 1,139,250,305,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0298_catheter_insertion_1_kasou_cut_resize.jpg 269,398,433,480,2 1,203,232,412,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0064_catheter_insertion_1_kasou_cut_resize.jpg 224,347,379,440,2 56,204,290,310,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0011_catheter_insertion_1_kasou_cut_resize.jpg 314,281,474,380,2 107,150,347,267,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0195_catheter_insertion_1_kasou_cut_resize.jpg 148,124,273,250,2 347,137,552,299,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0277_catheter_insertion_1_kasou_cut_resize.jpg 153,214,234,330,2 306,147,437,293,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0017_catheter_insertion_1_kasou_cut_resize.jpg 352,269,524,392,2 79,110,352,274,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0186_catheter_insertion_1_kasou_cut_resize.jpg 206,175,288,246,2 401,157,571,251,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0211_catheter_insertion_1_kasou_cut_resize.jpg 56,52,219,234,2 281,127,518,338,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0231_catheter_insertion_1_kasou_cut_resize.jpg 241,137,301,216,2 364,118,472,221,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0022_catheter_insertion_2_kasou_cut_resize.jpg 134,150,259,225,2 72,236,325,360,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0047_catheter_insertion_2_kasou_cut_resize.jpg 96,212,147,255,2 57,252,320,386,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0042_catheter_insertion_2_kasou_cut_resize.jpg 160,230,249,293,2 105,294,364,427,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0020_catheter_insertion_2_kasou_cut_resize.jpg 135,167,248,228,2 71,236,330,359,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0015_catheter_insertion_2_kasou_cut_resize.jpg 200,192,324,251,2 124,263,371,387,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0057_catheter_insertion_2_kasou_cut_resize.jpg 183,158,307,239,2 101,269,349,425,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0038_catheter_insertion_2_kasou_cut_resize.jpg 163,196,293,275,2 103,284,364,417,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0033_catheter_insertion_2_kasou_cut_resize.jpg 154,184,281,273,2 96,275,351,408,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0024_catheter_insertion_2_kasou_cut_resize.jpg 133,147,274,224,2 72,235,328,361,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0045_catheter_insertion_2_kasou_cut_resize.jpg 95,196,200,278,2 38,280,308,416,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0058_catheter_insertion_2_kasou_cut_resize.jpg 165,148,292,222,2 70,255,332,397,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0030_catheter_insertion_2_kasou_cut_resize.jpg 177,172,308,259,2 121,265,380,401,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0066_catheter_insertion_2_kasou_cut_resize.jpg 205,112,378,188,2 54,218,357,380,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0063_catheter_insertion_2_kasou_cut_resize.jpg 162,152,329,224,2 9,251,303,421,3
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0113_blood_culture_bottle_2_cut_resize.jpg 265,223,418,363,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0006_blood_culture_bottle_2_cut_resize.jpg 81,114,247,465,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0091_blood_culture_bottle_2_cut_resize.jpg 284,194,391,360,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0086_blood_culture_bottle_2_cut_resize.jpg 107,114,253,458,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0283_blood_culture_bottle_2_cut_resize.jpg 202,88,316,397,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0246_blood_culture_bottle_2_cut_resize.jpg 194,155,345,480,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0476_blood_culture_bottle_2_cut_resize.jpg 146,226,288,292,4 247,262,345,384,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0423_blood_culture_bottle_2_cut_resize.jpg 136,154,248,248,5 70,187,127,319,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0160_blood_culture_bottle_2_cut_resize.jpg 241,31,376,350,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0174_blood_culture_bottle_2_cut_resize.jpg 224,83,329,288,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0090_blood_culture_bottle_2_cut_resize.jpg 306,137,402,326,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0465_blood_culture_bottle_2_cut_resize.jpg 348,188,401,292,5 227,187,320,266,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0141_blood_culture_bottle_2_cut_resize.jpg 222,134,430,268,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0295_blood_culture_bottle_2_cut_resize.jpg 155,199,254,271,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0262_blood_culture_bottle_2_cut_resize.jpg 53,89,251,465,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0181_blood_culture_bottle_2_cut_resize.jpg 102,122,268,332,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0535_blood_culture_bottle_2_cut_resize.jpg 368,89,437,235,4 233,139,347,287,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0427_blood_culture_bottle_2_cut_resize.jpg 208,152,348,214,5 210,204,329,313,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0265_blood_culture_bottle_2_cut_resize.jpg 122,187,475,367,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0314_blood_culture_bottle_2_cut_resize.jpg 321,91,582,325,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0275_blood_culture_bottle_2_cut_resize.jpg 144,54,252,343,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0359_blood_culture_bottle_2_cut_resize.jpg 313,296,450,449,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0563_blood_culture_bottle_2_cut_resize.jpg 52,82,242,349,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0345_blood_culture_bottle_2_cut_resize.jpg 66,191,240,272,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0050_blood_culture_bottle_2_cut_resize.jpg 161,62,400,347,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0138_blood_culture_bottle_2_cut_resize.jpg 86,2,315,127,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0040_blood_culture_bottle_2_cut_resize.jpg 208,85,331,432,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0089_blood_culture_bottle_2_cut_resize.jpg 282,152,377,382,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0482_blood_culture_bottle_2_cut_resize.jpg 238,74,339,198,4 167,216,327,272,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0337_blood_culture_bottle_2_cut_resize.jpg 210,108,298,230,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0249_blood_culture_bottle_2_cut_resize.jpg 214,119,384,363,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0065_blood_culture_bottle_2_cut_resize.jpg 247,159,359,446,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0217_blood_culture_bottle_2_cut_resize.jpg 193,40,369,456,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0023_blood_culture_bottle_2_cut_resize.jpg 230,116,425,454,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0015_blood_culture_bottle_2_cut_resize.jpg 127,45,305,398,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0218_blood_culture_bottle_2_cut_resize.jpg 149,66,318,400,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0509_blood_culture_bottle_2_cut_resize.jpg 458,148,583,248,5 426,201,487,335,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0140_blood_culture_bottle_2_cut_resize.jpg 129,28,351,165,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0458_blood_culture_bottle_2_cut_resize.jpg 153,222,247,460,4 221,119,408,247,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0329_blood_culture_bottle_2_cut_resize.jpg 150,103,493,302,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0008_blood_culture_bottle_2_cut_resize.jpg 145,78,285,426,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0022_blood_culture_bottle_2_cut_resize.jpg 217,124,411,480,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0393_blood_culture_bottle_2_cut_resize.jpg 296,234,416,331,5 415,162,472,286,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0311_blood_culture_bottle_2_cut_resize.jpg 285,77,428,331,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0541_blood_culture_bottle_2_cut_resize.jpg 330,181,405,345,4 181,245,307,400,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0492_blood_culture_bottle_2_cut_resize.jpg 142,244,257,302,4 168,312,283,374,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0422_blood_culture_bottle_2_cut_resize.jpg 66,173,130,302,4 146,148,253,244,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0304_blood_culture_bottle_2_cut_resize.jpg 72,31,300,476,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0407_blood_culture_bottle_2_cut_resize.jpg 228,185,293,310,5 298,226,432,319,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0575_blood_culture_bottle_2_cut_resize.jpg 114,26,271,426,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0274_blood_culture_bottle_2_cut_resize.jpg 175,30,287,325,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0020_blood_culture_bottle_2_cut_resize.jpg 255,103,411,450,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0401_blood_culture_bottle_2_cut_resize.jpg 110,164,181,319,5 215,153,322,301,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0474_blood_culture_bottle_2_cut_resize.jpg 133,180,240,255,4 258,179,308,282,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0576_blood_culture_bottle_2_cut_resize.jpg 91,21,288,421,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0561_blood_culture_bottle_2_cut_resize.jpg 112,213,275,432,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0072_blood_culture_bottle_2_cut_resize.jpg 248,42,356,368,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0094_blood_culture_bottle_2_cut_resize.jpg 259,230,365,355,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0524_blood_culture_bottle_2_cut_resize.jpg 74,58,145,186,4 1,124,44,214,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0355_blood_culture_bottle_2_cut_resize.jpg 304,217,466,311,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0387_blood_culture_bottle_2_cut_resize.jpg 270,317,425,389,5 269,206,397,295,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0481_blood_culture_bottle_2_cut_resize.jpg 142,201,304,273,5 218,61,327,194,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0161_blood_culture_bottle_2_cut_resize.jpg 209,46,340,365,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0162_blood_culture_bottle_2_cut_resize.jpg 164,18,300,328,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0051_blood_culture_bottle_2_cut_resize.jpg 124,76,488,281,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0269_blood_culture_bottle_2_cut_resize.jpg 81,87,357,282,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0205_blood_culture_bottle_2_cut_resize.jpg 263,112,349,235,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0552_blood_culture_bottle_2_cut_resize.jpg 263,123,463,348,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0361_blood_culture_bottle_2_cut_resize.jpg 473,232,562,392,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0121_blood_culture_bottle_2_cut_resize.jpg 151,136,396,292,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0045_blood_culture_bottle_2_cut_resize.jpg 279,1,404,350,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0456_blood_culture_bottle_2_cut_resize.jpg 162,210,250,457,4 248,108,447,262,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0442_blood_culture_bottle_2_cut_resize.jpg 140,212,236,387,4 268,170,378,335,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0558_blood_culture_bottle_2_cut_resize.jpg 321,167,466,333,5 131,214,306,350,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0168_blood_culture_bottle_2_cut_resize.jpg 201,38,327,310,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0377_blood_culture_bottle_2_cut_resize.jpg 275,211,410,309,5 231,261,302,408,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0594_blood_culture_bottle_2_cut_resize.jpg 177,162,282,393,4 542,346,640,477,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0472_blood_culture_bottle_2_cut_resize.jpg 231,199,315,268,4 339,202,380,286,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0271_blood_culture_bottle_2_cut_resize.jpg 154,3,357,293,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0357_blood_culture_bottle_2_cut_resize.jpg 287,238,454,321,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0166_blood_culture_bottle_2_cut_resize.jpg 198,5,323,303,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0104_blood_culture_bottle_2_cut_resize.jpg 201,137,272,313,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0238_blood_culture_bottle_2_cut_resize.jpg 76,49,250,415,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0222_blood_culture_bottle_2_cut_resize.jpg 52,120,308,379,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0470_blood_culture_bottle_2_cut_resize.jpg 411,271,489,326,4 508,276,548,358,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0493_blood_culture_bottle_2_cut_resize.jpg 319,379,422,456,5 263,324,380,374,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0191_blood_culture_bottle_2_cut_resize.jpg 275,244,414,444,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0333_blood_culture_bottle_2_cut_resize.jpg 282,210,407,377,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0208_blood_culture_bottle_2_cut_resize.jpg 320,115,384,260,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0579_blood_culture_bottle_2_cut_resize.jpg 145,77,327,401,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0058_blood_culture_bottle_2_cut_resize.jpg 110,139,493,316,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0082_blood_culture_bottle_2_cut_resize.jpg 140,84,280,419,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0417_blood_culture_bottle_2_cut_resize.jpg 192,255,299,378,5 90,212,243,277,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0406_blood_culture_bottle_2_cut_resize.jpg 301,223,429,326,4 230,191,287,319,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0111_blood_culture_bottle_2_cut_resize.jpg 273,248,391,449,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0321_blood_culture_bottle_2_cut_resize.jpg 44,89,479,288,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0435_blood_culture_bottle_2_cut_resize.jpg 151,100,300,163,5 189,158,342,264,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0223_blood_culture_bottle_2_cut_resize.jpg 15,108,180,290,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0075_blood_culture_bottle_2_cut_resize.jpg 251,74,402,384,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0232_blood_culture_bottle_2_cut_resize.jpg 88,76,228,402,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0348_blood_culture_bottle_2_cut_resize.jpg 183,232,321,415,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0093_blood_culture_bottle_2_cut_resize.jpg 269,239,374,370,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0297_blood_culture_bottle_2_cut_resize.jpg 38,32,129,179,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0047_blood_culture_bottle_2_cut_resize.jpg 208,32,365,351,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0240_blood_culture_bottle_2_cut_resize.jpg 107,84,282,436,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0012_blood_culture_bottle_2_cut_resize.jpg 162,16,317,399,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0404_blood_culture_bottle_2_cut_resize.jpg 292,201,423,315,4 216,169,272,303,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0004_blood_culture_bottle_2_cut_resize.jpg 117,97,262,442,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0243_blood_culture_bottle_2_cut_resize.jpg 181,1,334,383,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0244_blood_culture_bottle_2_cut_resize.jpg 172,4,323,379,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0559_blood_culture_bottle_2_cut_resize.jpg 72,238,238,366,4 252,192,392,343,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0388_blood_culture_bottle_2_cut_resize.jpg 212,257,333,353,4 200,375,346,439,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0076_blood_culture_bottle_2_cut_resize.jpg 268,105,433,427,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0446_blood_culture_bottle_2_cut_resize.jpg 95,203,211,359,4 243,181,316,342,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0449_blood_culture_bottle_2_cut_resize.jpg 205,93,347,358,4 392,18,567,260,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0009_blood_culture_bottle_2_cut_resize.jpg 122,42,293,393,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0285_blood_culture_bottle_2_cut_resize.jpg 191,8,317,349,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0163_blood_culture_bottle_2_cut_resize.jpg 122,11,245,301,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0419_blood_culture_bottle_2_cut_resize.jpg 245,166,299,300,5 98,160,229,267,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0029_blood_culture_bottle_2_cut_resize.jpg 125,165,267,392,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0542_blood_culture_bottle_2_cut_resize.jpg 187,245,298,387,5 322,184,395,340,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0491_blood_culture_bottle_2_cut_resize.jpg 172,305,294,361,5 168,240,270,300,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0145_blood_culture_bottle_2_cut_resize.jpg 365,232,493,351,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0219_blood_culture_bottle_2_cut_resize.jpg 124,83,294,370,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0106_blood_culture_bottle_2_cut_resize.jpg 183,131,259,312,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0071_blood_culture_bottle_2_cut_resize.jpg 241,72,358,405,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0432_blood_culture_bottle_2_cut_resize.jpg 154,99,312,202,4 114,47,265,101,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0573_blood_culture_bottle_2_cut_resize.jpg 53,109,233,446,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0302_blood_culture_bottle_2_cut_resize.jpg 72,59,291,476,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0413_blood_culture_bottle_2_cut_resize.jpg 143,193,292,339,5 294,105,366,273,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0193_blood_culture_bottle_2_cut_resize.jpg 254,225,392,430,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0402_blood_culture_bottle_2_cut_resize.jpg 288,206,408,332,4 194,193,260,351,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0016_blood_culture_bottle_2_cut_resize.jpg 171,101,343,440,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0214_blood_culture_bottle_2_cut_resize.jpg 225,59,367,375,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0046_blood_culture_bottle_2_cut_resize.jpg 231,20,370,378,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0156_blood_culture_bottle_2_cut_resize.jpg 183,11,299,309,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0464_blood_culture_bottle_2_cut_resize.jpg 179,230,276,326,4 300,221,358,334,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0501_blood_culture_bottle_2_cut_resize.jpg 407,206,514,284,5 377,250,445,372,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0444_blood_culture_bottle_2_cut_resize.jpg 109,145,223,319,4 260,115,357,292,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0117_blood_culture_bottle_2_cut_resize.jpg 190,214,407,335,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0327_blood_culture_bottle_2_cut_resize.jpg 112,160,420,331,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0598_blood_culture_bottle_2_cut_resize.jpg 1,109,120,428,4 121,94,370,456,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0488_blood_culture_bottle_2_cut_resize.jpg 177,306,273,370,4 157,387,280,437,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0487_blood_culture_bottle_2_cut_resize.jpg 276,329,399,382,5 286,246,392,314,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0383_blood_culture_bottle_2_cut_resize.jpg 373,180,431,328,5 216,180,344,296,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0000_blood_culture_bottle_2_cut_resize.jpg 160,81,308,448,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0185_blood_culture_bottle_2_cut_resize.jpg 197,231,342,455,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0190_blood_culture_bottle_2_cut_resize.jpg 310,283,434,454,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0053_blood_culture_bottle_2_cut_resize.jpg 98,134,495,366,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0369_blood_culture_bottle_2_cut_resize.jpg 408,145,597,268,5 187,259,274,477,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0400_blood_culture_bottle_2_cut_resize.jpg 277,216,357,369,4 137,255,244,407,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0347_blood_culture_bottle_2_cut_resize.jpg 80,297,272,442,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0278_blood_culture_bottle_2_cut_resize.jpg 298,154,416,442,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0078_blood_culture_bottle_2_cut_resize.jpg 214,76,408,414,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0109_blood_culture_bottle_2_cut_resize.jpg 306,91,384,296,4
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0296_blood_culture_bottle_2_cut_resize.jpg 117,138,285,263,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0303_blood_culture_bottle_2_cut_resize.jpg 91,57,314,479,5
+C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3_v1/VOCdevkit/VOC2007/JPEGImages/image_0293_blood_culture_bottle_2_cut_resize.jpg 1,131,354,275,5

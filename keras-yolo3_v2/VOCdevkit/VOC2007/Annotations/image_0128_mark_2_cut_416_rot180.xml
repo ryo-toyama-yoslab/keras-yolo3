@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mark_2_kasou_cut_416</folder>
+	<filename>image_0128_mark_2_cut_416_rot180.jpg</filename>
+	<path>C:\Users\1999r\OneDrive - 和歌山大学\move_to_image\mark_under_kasou_frame\mark_2_kasou_cut_416\image_0128_mark_2_cut_416_rot180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mark_needle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>158</ymin>
+			<xmax>240</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

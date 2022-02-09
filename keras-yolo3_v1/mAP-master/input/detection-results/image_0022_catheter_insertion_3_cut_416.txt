@@ -1,0 +1,7 @@
+guide_wire 0.99 34 181 162 287
+guide_wire 0.99 34 181 162 287
+guide_wire 0.99 34 181 162 287
+guide_wire 0.99 34 181 162 287
+guide_wire 0.99 34 181 162 287
+guide_wire 0.99 34 181 162 287
+guide_wire 0.99 22 188 157 294

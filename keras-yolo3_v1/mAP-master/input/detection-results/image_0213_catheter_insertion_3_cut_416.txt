@@ -1,0 +1,5 @@
+guide_wire 0.40 115 324 223 361
+guide_wire 0.40 115 324 223 361
+guide_wire 0.40 115 324 223 361
+guide_wire 0.40 115 324 223 361
+guide_wire 0.40 115 324 223 361

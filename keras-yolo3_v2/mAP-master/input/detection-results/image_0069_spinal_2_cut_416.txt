@@ -1,0 +1,13 @@
+spinal_needle 0.44 60 164 70 185
+spinal_needle 0.94 54 166 70 192
+spinal_needle 0.44 60 164 70 185
+spinal_needle 0.94 54 166 70 192
+spinal_needle 0.44 60 164 70 185
+spinal_needle 0.94 54 166 70 192
+spinal_needle 0.44 60 164 70 185
+spinal_needle 0.94 54 166 70 192
+spinal_needle 0.44 60 164 70 185
+spinal_needle 0.94 54 166 70 192
+spinal_needle 0.44 60 164 70 185
+spinal_needle 0.94 54 166 70 192
+spinal_needle 0.99 53 166 71 194

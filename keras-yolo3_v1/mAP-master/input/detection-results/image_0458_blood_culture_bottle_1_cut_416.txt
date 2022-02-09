@@ -1,0 +1,5 @@
+blood_cl_bottle_blue 1.00 135 92 171 153
+blood_cl_bottle_blue 1.00 135 92 171 153
+blood_cl_bottle_blue 1.00 135 92 171 153
+blood_cl_bottle_blue 1.00 135 92 171 153
+blood_cl_bottle_blue 0.99 130 90 174 159

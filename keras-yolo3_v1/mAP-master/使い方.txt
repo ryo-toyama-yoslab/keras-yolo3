@@ -1,0 +1,17 @@
+Yolov3のモデル性能評価ツールの使い方について
+
+　　detection-resultsには認識結果のテキストファイル
+　　　→　Yolo実行時にpython yolo_video.py --fileでimg-fileの画像を一括認識，結果を自動でテキストファイル保存するようにしてる
+
+　　ground-truthにはアノテーションしたxmlファイルを入れておく
+　　　→精度評価用にテキストファイルに変換する必要があるので用意してくれてるPythonコードを実行
+　　　　　cd C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3\mAP-master\scripts\extra
+　　　　　python convert_gt_xml.py
+　　　　　この時，認識させる対象のラベル名をclass_list.txtに追加しておく　　―――　ラベル名には空白は入れない
+
+　　images-optionalには性能評価対象の画像を入れておく
+
+
+　　実行コマンドは
+    cd C:\Users\1999r\anaconda3\envs\tf114\keras-yolo3\keras-yolo3\mAP-master
+    python main.py

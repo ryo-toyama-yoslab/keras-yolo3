@@ -1,0 +1,11 @@
+guide_wire 1.00 139 201 269 280
+central_venous_catheter 0.69 2 193 51 232
+guide_wire 1.00 139 201 269 280
+central_venous_catheter 0.69 2 193 51 232
+guide_wire 1.00 139 201 269 280
+central_venous_catheter 0.69 2 193 51 232
+guide_wire 1.00 139 201 269 280
+central_venous_catheter 0.69 2 193 51 232
+guide_wire 1.00 139 201 269 280
+central_venous_catheter 0.69 2 193 51 232
+guide_wire 1.00 137 204 274 280

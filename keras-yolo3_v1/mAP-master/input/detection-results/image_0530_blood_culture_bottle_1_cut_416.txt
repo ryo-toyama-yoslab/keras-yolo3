@@ -1,0 +1,7 @@
+blood_cl_bottle_orange 0.97 231 273 277 318
+blood_cl_bottle_orange 0.97 231 273 277 318
+blood_cl_bottle_orange 0.97 231 273 277 318
+blood_cl_bottle_orange 0.97 231 273 277 318
+blood_cl_bottle_orange 0.98 235 273 279 318
+blood_cl_bottle_blue 0.94 160 174 280 318
+guide_wire 0.32 72 220 134 273

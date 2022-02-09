@@ -1,0 +1,38 @@
+<annotation>
+	<folder>blood_culture_bottle_1_cut_416</folder>
+	<filename>image_0351_blood_culture_bottle_1_cut_416.jpg</filename>
+	<path>C:\Users\1999r\OneDrive - 和歌山大学\move_to_image\blood_culture_bottle_under_kasou_frame\blood_culture_bottle_1_cut_416\image_0351_blood_culture_bottle_1_cut_416.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blood_cl_bottle_orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>79</ymin>
+			<xmax>260</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blood_cl_bottle_blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>143</ymin>
+			<xmax>80</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
