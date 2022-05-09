@@ -1,8 +1,0 @@
-spinal_needle 0.93 134 125 149 140
-spinal_needle 0.93 134 125 149 140
-spinal_needle 0.93 134 125 149 140
-spinal_needle 0.93 134 125 149 140
-spinal_needle 0.93 134 125 149 140
-spinal_needle 0.93 134 125 149 140
-spinal_needle 0.54 134 122 147 142
-spinal_needle 0.56 137 125 146 139

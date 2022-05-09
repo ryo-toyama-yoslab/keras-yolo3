@@ -1,1 +1,0 @@
-spinal_needle 105 197 135 224

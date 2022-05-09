@@ -1,8 +1,0 @@
-central_venous_catheter 0.98 63 172 125 256
-central_venous_catheter 0.98 63 172 125 256
-central_venous_catheter 0.98 63 172 125 256
-central_venous_catheter 0.98 63 172 125 256
-central_venous_catheter 0.98 63 172 125 256
-central_venous_catheter 0.98 63 172 125 256
-central_venous_catheter 0.99 62 172 125 259
-central_venous_catheter 0.98 61 165 127 275

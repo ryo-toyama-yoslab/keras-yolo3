@@ -1,2 +1,0 @@
-blood_cl_bottle_orange 270 150 289 187
-blood_cl_bottle_blue 254 214 274 249
