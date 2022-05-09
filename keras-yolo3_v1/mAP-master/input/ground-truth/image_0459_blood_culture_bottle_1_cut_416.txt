@@ -1,1 +1,0 @@
-blood_cl_bottle_blue 117 85 159 157

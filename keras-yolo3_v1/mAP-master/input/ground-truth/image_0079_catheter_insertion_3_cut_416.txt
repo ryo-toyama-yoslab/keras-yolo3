@@ -1,1 +1,0 @@
-central_venous_catheter 55 171 113 272

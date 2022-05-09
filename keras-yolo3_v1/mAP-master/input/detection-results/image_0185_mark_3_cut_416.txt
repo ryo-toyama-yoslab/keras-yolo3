@@ -1,6 +1,0 @@
-mark_needle 0.86 74 149 167 224
-mark_needle 0.86 74 149 167 224
-mark_needle 0.86 74 149 167 224
-mark_needle 0.86 74 149 167 224
-mark_needle 0.86 74 149 167 224
-mark_needle 0.92 76 151 166 221

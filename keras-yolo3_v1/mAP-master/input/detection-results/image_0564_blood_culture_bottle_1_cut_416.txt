@@ -1,6 +1,0 @@
-blood_cl_bottle_orange 0.99 213 113 252 170
-blood_cl_bottle_orange 0.99 213 113 252 170
-blood_cl_bottle_orange 0.99 213 113 252 170
-blood_cl_bottle_orange 0.99 213 113 252 170
-blood_cl_bottle_orange 1.00 202 111 258 182
-blood_cl_bottle_orange 0.99 125 101 251 364

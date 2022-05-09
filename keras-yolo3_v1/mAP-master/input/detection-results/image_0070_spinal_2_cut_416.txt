@@ -1,8 +1,0 @@
-spinal_needle 0.91 68 159 83 184
-spinal_needle 0.91 68 159 83 184
-spinal_needle 0.91 68 159 83 184
-spinal_needle 0.91 68 159 83 184
-spinal_needle 0.91 68 159 83 184
-spinal_needle 0.91 68 159 83 184
-spinal_needle 0.99 69 159 84 185
-spinal_needle 0.97 69 159 81 187
